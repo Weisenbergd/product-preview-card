@@ -1,0 +1,21 @@
+:root {
+  --clr-background: hsla(28, 38%, 92%, 1);
+  --clr-white: hsla(0, 0%, 100%, 1);
+  --clr-green: hsla(157, 36%, 37%, 1);
+  --clr-body: hsla(228, 12%, 48%, 1);
+  --clr-title: hsla(212, 21%, 14%, 1);
+  --clr-dark-green: hsla(157, 43%, 18%, 1);
+
+  --ff-big: "Fraunces";
+  --ff-body: "Montserrat";
+
+  --fw-normal: 500;
+  --fw-bold: 700;
+
+  --fs-category: 0.75rem;
+  --fs-price-orig: 0.8125rem;
+  --fs-main: 0.875rem;
+  --fs-big: 2rem;
+}
+
+$breakpoint-md: 37.5rem;
